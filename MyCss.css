@@ -1,0 +1,66 @@
+#ProfPic
+{
+	height: 200px;
+	width: 200px;
+	top:30px;
+	padding-bottom: 0px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#page
+{
+	background-color: #ecf0f1;
+	border-radius: 25px;
+}
+#Name
+{
+	font-size: 60px;
+	font-style: bold;
+	font-weight: strong;
+	padding-top: 0px;
+	font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	text-align: center;
+}
+#descri
+{
+	display: block;
+	font-size: 20px;
+	font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	text-align: center;
+}
+#paragraph
+{
+	max-width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+#header
+{
+	border-radius: 25px;
+	padding-top: 25px;
+}
+#links
+{
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+li
+{
+	font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	font-style: bold;
+	font-size: 30px;
+	display: inline;
+}
+
+a
+{
+	text-decoration: none;
+}
+body
+{
+	background-color: #ecf0f1;
+}
